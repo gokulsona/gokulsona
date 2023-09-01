@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Myself Gokul Sona
+I am a Computer Science Student,pursing Master's in Computer Application
 <!--
 **gokulsona/gokulsona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
